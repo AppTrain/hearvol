@@ -1,2 +1,3 @@
 # hearvol
-https://github.com/AppTrain/hearvol
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AppTrain/hearvol/master)
+
